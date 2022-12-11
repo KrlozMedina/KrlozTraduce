@@ -1,0 +1,2 @@
+# KrlozTraduce
+Traductor de idiomas
